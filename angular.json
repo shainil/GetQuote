@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "SymbolAng"
+  "defaultProject": "SymbolAng",
+  "cli": {
+    "analytics": "f490f8a6-dd2f-4084-a2b1-8c842ce5e920"
+  }
 }
